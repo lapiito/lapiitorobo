@@ -1,0 +1,2 @@
+[1017/000406.879:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Brute1\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\075783ad-5c7b-467e-85b9-4a774da42f32: The system cannot find the path specified. (0x3)
+[1017/092713.232:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
